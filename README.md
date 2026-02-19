@@ -1,6 +1,9 @@
 ## Hi there 👋
 I'm Andrea, known ad Cande.
-Computer Engineering student from Italy.
+Computer & automation Engineering student from Italy.
+
+
+
 <!--
 **IlCandeDEV/IlCandeDEV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
