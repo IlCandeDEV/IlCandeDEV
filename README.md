@@ -1,5 +1,4 @@
 ## Hi there 👋
-I'm Andrea, known ad Cande.
 Computer & automation Engineering student from Italy.
 
 
